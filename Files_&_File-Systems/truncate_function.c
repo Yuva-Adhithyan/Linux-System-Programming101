@@ -4,7 +4,7 @@ EXPLANATION:
 
 File’s length can be changed via an operation called truncation.
 
-Code:
+CODE:
 Truncates the file length to 10.
 If more than 10 bytes of content present in file01.txt, it will be erased.
 -----------------------------------------------------------------------------
